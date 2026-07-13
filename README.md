@@ -1,7 +1,7 @@
 sd is a simple tool to swap between saved directories on Linux systems.
 
 ## Installation
-Download the bash script, sh. Place it in your PATH, and add the following alias to your .bashrc (or whatever equivilant there is for other shells):
+Download the bash script, sh. Place it in your PATH, and add the following alias to your .bashrc (or whatever equivilant there is for other shells):  
 alias sd=". sd.sh"  
 
 Note: this tool assumes that ~/.local/bin exists
